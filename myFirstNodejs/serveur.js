@@ -1,4 +1,5 @@
 //serveur.js
+// copyright by Openclassroom, but pour étudier et comprendre le mécanisme de fonction serveur web
 /*
 require effectue un appel à une bibliothèque de Node.js,
 ici la bibliothèque "http" qui nous permet de créer un serveur web. 
